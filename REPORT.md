@@ -226,3 +226,4 @@ b8cd9f5 added .gitignore
 применение clang-format
 
 force push с флагом --force-with-lease
+**Рабочий репозиторий (где выполнялись команды):** https://github.com/psychoxdune-dot/laba2sk
